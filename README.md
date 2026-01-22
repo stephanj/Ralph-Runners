@@ -56,9 +56,8 @@ Ralph Runners processes JSON task files in this format:
 
 ## Requirements
 
-- Java 21+ runtime (bundled in native installers)
 - [Claude Code CLI](https://claude.ai/code) installed and authenticated
 
 ## License
 
-Copyright 2025 Stephan Janssen. All rights reserved.
+Copyright 2026 Stephan Janssen BV. All rights reserved.
